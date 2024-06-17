@@ -1,0 +1,14 @@
+{
+  "name": "estudo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ursulino204/JavaScript-Estudo.git",
+  "author": "Ursulino204",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
